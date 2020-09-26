@@ -1,0 +1,140 @@
+src/main/java/com/dxc/restful/MovieBookingSystemPranathiApplication.java:7:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/MovieBookingSystemPranathiApplication.java:7:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/MovieBookingSystemPranathiApplication.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/dxc/restful/MovieBookingSystemPranathiApplication.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/dxc/restful/MovieBookingSystemPranathiApplication.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/MovieBookingSystemPranathiApplication.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/MovieBookingSystemPranathiApplication.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/dxc/restful/MovieBookingSystemPranathiApplication.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/dxc/restful/ServletInitializer.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/ServletInitializer.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/ServletInitializer.java:6:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/ServletInitializer.java:6:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/ServletInitializer.java:9:	MethodArgumentCouldBeFinal: Parameter 'application' is not assigned and could be declared final
+src/main/java/com/dxc/restful/ServletInitializer.java:9:	MethodArgumentCouldBeFinal: Parameter 'application' is not assigned and could be declared final
+src/main/java/com/dxc/restful/controller/MovieSysController.java:26:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/controller/MovieSysController.java:26:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/controller/MovieSysController.java:26:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:26:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:28:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/dxc/restful/controller/MovieSysController.java:28:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/dxc/restful/controller/MovieSysController.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/dxc/restful/controller/MovieSysController.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/dxc/restful/controller/MovieSysController.java:29:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the service field if you want a default access modifier
+src/main/java/com/dxc/restful/controller/MovieSysController.java:29:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the service field if you want a default access modifier
+src/main/java/com/dxc/restful/controller/MovieSysController.java:29:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:29:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:31:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/dxc/restful/controller/MovieSysController.java:31:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/dxc/restful/controller/MovieSysController.java:32:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the movie field if you want a default access modifier
+src/main/java/com/dxc/restful/controller/MovieSysController.java:32:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the movie field if you want a default access modifier
+src/main/java/com/dxc/restful/controller/MovieSysController.java:32:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:32:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:37:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:37:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:37:	MethodArgumentCouldBeFinal: Parameter 'movie' is not assigned and could be declared final
+src/main/java/com/dxc/restful/controller/MovieSysController.java:37:	MethodArgumentCouldBeFinal: Parameter 'movie' is not assigned and could be declared final
+src/main/java/com/dxc/restful/controller/MovieSysController.java:45:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:45:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:49:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/dxc/restful/controller/MovieSysController.java:49:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/dxc/restful/controller/MovieSysController.java:51:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:51:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/controller/MovieSysController.java:51:	MethodArgumentCouldBeFinal: Parameter 'movieID' is not assigned and could be declared final
+src/main/java/com/dxc/restful/controller/MovieSysController.java:51:	MethodArgumentCouldBeFinal: Parameter 'movieID' is not assigned and could be declared final
+src/main/java/com/dxc/restful/controller/SwaggerConfiguration.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/controller/SwaggerConfiguration.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/controller/SwaggerConfiguration.java:14:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/controller/SwaggerConfiguration.java:14:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/controller/SwaggerConfiguration.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/controller/SwaggerConfiguration.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:5:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:5:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:5:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:5:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:5:	DataClass: The class 'ErrorResponse' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:5:	DataClass: The class 'ErrorResponse' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:8:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:8:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:12:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:12:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:15:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:15:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:21:	MethodArgumentCouldBeFinal: Parameter 'code' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:21:	MethodArgumentCouldBeFinal: Parameter 'code' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:29:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:29:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:37:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/ErrorResponse.java:37:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/entity/Movie.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/entity/Movie.java:9:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:9:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:9:	DataClass: The class 'Movie' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=12, WMC=13)
+src/main/java/com/dxc/restful/entity/Movie.java:9:	DataClass: The class 'Movie' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=12, WMC=13)
+src/main/java/com/dxc/restful/entity/Movie.java:12:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:12:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:13:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:13:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:14:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:14:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:15:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:15:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:16:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:16:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:17:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:17:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/entity/Movie.java:21:	MethodArgumentCouldBeFinal: Parameter 'movieID' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:21:	MethodArgumentCouldBeFinal: Parameter 'movieID' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:27:	MethodArgumentCouldBeFinal: Parameter 'movieName' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:27:	MethodArgumentCouldBeFinal: Parameter 'movieName' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:33:	MethodArgumentCouldBeFinal: Parameter 'movieRating' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:33:	MethodArgumentCouldBeFinal: Parameter 'movieRating' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:39:	MethodArgumentCouldBeFinal: Parameter 'movieDuration' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:39:	MethodArgumentCouldBeFinal: Parameter 'movieDuration' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:45:	MethodArgumentCouldBeFinal: Parameter 'movieCategory' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:45:	MethodArgumentCouldBeFinal: Parameter 'movieCategory' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:51:	MethodArgumentCouldBeFinal: Parameter 'movieRecommend' is not assigned and could be declared final
+src/main/java/com/dxc/restful/entity/Movie.java:51:	MethodArgumentCouldBeFinal: Parameter 'movieRecommend' is not assigned and could be declared final
+src/main/java/com/dxc/restful/repository/IMovieRepo.java:6:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/repository/IMovieRepo.java:6:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/service/IMovieService.java:6:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/service/IMovieService.java:6:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/service/IMovieService.java:8:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/service/IMovieService.java:8:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/service/IMovieService.java:8:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addMovie': the method is declared in an interface type
+src/main/java/com/dxc/restful/service/IMovieService.java:8:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addMovie': the method is declared in an interface type
+src/main/java/com/dxc/restful/service/IMovieService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/service/IMovieService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/service/IMovieService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteMovie': the method is declared in an interface type
+src/main/java/com/dxc/restful/service/IMovieService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteMovie': the method is declared in an interface type
+src/main/java/com/dxc/restful/service/IMovieService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/service/IMovieService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/restful/service/IMovieService.java:10:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllMovies': the method is declared in an interface type
+src/main/java/com/dxc/restful/service/IMovieService.java:10:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllMovies': the method is declared in an interface type
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:11:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:11:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:11:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:11:	CommentRequired: Class comments are required
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:13:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:13:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the repo field if you want a default access modifier
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the repo field if you want a default access modifier
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:14:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:14:	CommentRequired: Field comments are required
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:22:	MethodArgumentCouldBeFinal: Parameter 'movie' is not assigned and could be declared final
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:22:	MethodArgumentCouldBeFinal: Parameter 'movie' is not assigned and could be declared final
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:28:	MethodArgumentCouldBeFinal: Parameter 'movieID' is not assigned and could be declared final
+src/main/java/com/dxc/restful/service/MovieServiceImp.java:28:	MethodArgumentCouldBeFinal: Parameter 'movieID' is not assigned and could be declared final
+src/test/java/com/dxc/restful/MovieBookingSystemPranathiApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/dxc/restful/MovieBookingSystemPranathiApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/dxc/restful/MovieBookingSystemPranathiApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/dxc/restful/MovieBookingSystemPranathiApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/dxc/restful/MovieBookingSystemPranathiApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/dxc/restful/MovieBookingSystemPranathiApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/dxc/restful/MovieBookingSystemPranathiApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/dxc/restful/MovieBookingSystemPranathiApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/dxc/restful/MovieBookingSystemPranathiApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/dxc/restful/MovieBookingSystemPranathiApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
